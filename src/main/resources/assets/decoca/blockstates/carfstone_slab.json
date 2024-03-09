@@ -4,7 +4,7 @@
       "model": "decoca:block/slab/carfstone/carfstone_slab"
     },
     "type=double": {
-      "model": "decoca:block/carfstones"
+      "model": "decoca:block/carfstone"
     },
     "type=top": {
       "model": "decoca:block/slab/carfstone/carfstone_slab_top"

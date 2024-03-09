@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "decoca:block/carfstone_brick_slab"
+      "model": "decoca:block/slab/carfstone_brick/carfstone_brick_slab"
     },
     "type=double": {
       "model": "decoca:block/carfstone_bricks"
     },
     "type=top": {
-      "model": "decoca:block/carfstone_brick_slab_top"
+      "model": "decoca:block/slab/carfstone_brick/carfstone_brick_slab_top"
     }
   }
 }

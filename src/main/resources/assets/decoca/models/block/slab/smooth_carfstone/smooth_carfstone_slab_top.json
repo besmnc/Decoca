@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "decoca:block/smooth_carfstone",
+    "side": "decoca:block/smooth_carfstone",
+    "top": "decoca:block/smooth_carfstone"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "decoca:block/smooth_carfstone",
+    "side": "decoca:block/smooth_carfstone",
+    "top": "decoca:block/smooth_carfstone"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "values": [
     "decoca:carfstone_wall",
-    "decoca:carfstone_brick_wall"
+    "decoca:carfstone_brick_wall",
+    "decoca:smooth_carfstone_wall"
   ]
 }

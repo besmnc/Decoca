@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "decoca:block/carfstone_bricks",
+    "side": "decoca:block/carfstone_bricks",
+    "top": "decoca:block/carfstone_bricks"
+  }
+}
